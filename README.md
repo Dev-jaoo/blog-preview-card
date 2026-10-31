@@ -6,11 +6,6 @@ Projeto desenvolvido como parte dos desafios do [Frontend Mentor](https://www.fr
 
 ![Preview do projeto](./preview.jpg)
 
-## 🔗 Links
-
-- **Solution:** [Frontend Mentor](#)
-- **Live Site:** [Acessar projeto](#)
-- **Repositório:** [GitHub](https://github.com/Dev-jaoo/blog-preview-card)
 
 ## 🎯 Objetivo
 
@@ -45,4 +40,4 @@ O projeto está sendo desenvolvido utilizando HTML e CSS, priorizando a organiza
 **João**
 
 - GitHub: [@Dev-jaoo](https://github.com/Dev-jaoo)
-- Frontend Mentor: [Seu perfil](https://www.frontendmentor.io/)
+- Frontend Mentor: [Seu perfil](https://www.frontendmentor.io/profile/Dev-jaoo)
