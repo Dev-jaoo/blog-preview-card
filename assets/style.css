@@ -17,7 +17,6 @@ body{
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    
 }
 
 .container{
@@ -26,8 +25,6 @@ body{
     justify-content: center;
     align-items: center;
     width: 100%;
-
-    
 }
 
 .container_align{
@@ -96,7 +93,6 @@ body{
 .avatar img{
     width: 35px;
 }
-
 
 .attribution{
     background-color: hsl(0, 0%, 100%);
