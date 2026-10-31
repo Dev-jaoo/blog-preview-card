@@ -1,0 +1,107 @@
+
+/* .figtree-<uniquifier> {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+}
+
+.container{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1440px;
+    width: 100%;
+
+    
+}
+
+.container_align{
+    font-family: "Figtree", sans-serif;
+    max-width: 380px;
+    height: auto;
+    width: 100%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    box-shadow: 7px 10px  hsl(0, 0%, 7%);
+    padding: 20px;
+}
+
+.illustration-article{
+    display: flex;
+    justify-content: center;
+}
+
+.illustration-article img{
+    display: block;
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.p_learning{
+    background-color:hsl(47, 88%, 63%) ;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    width: 90px;
+    text-align: center;
+}
+
+.p_data{
+    color: hsl(0, 0%, 7%);
+    font-weight: 600;
+}
+
+.teme{
+    font-size: 25px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    display: inline-block;
+}
+
+.teme:hover{
+    color:hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
+.p_text{
+    color: hsl(0, 0%, 42%);
+}
+
+.avatar{
+    display: flex;
+    align-items: center;
+    margin-top: 22px;
+    gap: 10px;
+    font-weight: 800;
+}
+
+.avatar img{
+    width: 35px;
+}
+
+
+.attribution{
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    padding: 10px;
+}
+
